@@ -1,0 +1,10 @@
+-- DC --
+Volts - 12
+Amps - 10
+Watts - 120
+
+-- AC --
+Volts - number
+Amps - number
+Watts - number
+
